@@ -1,0 +1,230 @@
+body
+{
+	margin:0;
+	padding:0;
+	background-color:#C0C0C0;
+}
+
+svg
+{
+	font-family:arial;
+}
+
+.tr
+{
+	font-size: 20px;
+	font-weight: bold; 
+	fill: black;
+}
+
+.tr_g_moc
+{
+	font-size: 18px; 
+	fill: black;
+}
+
+.tr_kola  
+{	
+	fill-opacity:0;
+	stroke: blue; 
+	stroke-width: 3;
+}
+
+.tr_dymek
+{
+	fill:#E0E0E0;
+	stroke:#CC00CC;
+	stroke-width:3;
+}
+
+.tr_dane
+{
+	font-size: 16px; 
+	fill: black;
+}
+
+.G
+{
+	font-size: 30px; 
+	font-weight: bold; 
+	fill: blue;	
+}
+
+.G1_G2
+{	
+	font-size: 20px;
+	font-weight: bold; 
+	fill: black;
+}
+
+.G_kolo
+{
+	fill: #C0C0C0; 
+	stroke: blue; 
+	stroke-width: 3;
+}
+
+.linia
+{
+	stroke:blue;
+	stroke-width:4;	
+}
+
+.szyna
+{
+	stroke:blue;
+	stroke-width:6;	
+}
+
+.dymek_linia
+{
+	stroke: #CC00CC ;
+	stroke-width:4;
+}
+
+.dymek_kolo
+{
+	fill-opacity:0; 
+	stroke: #CC00CC ; 
+	stroke-width: 3;
+}
+
+.rtask
+{
+	fill:#E0E0E0;
+	stroke:#99004C;
+	stroke-width:3;	
+}
+
+.rtask_dane
+{
+	font-size: 18px; 
+	font-weight: bold;
+	fill: black;
+}
+
+.rtask_dane1
+{
+	font-size: 16px;
+	fill: black;
+}
+
+.odbiory
+{
+	stroke:#606060;
+	stroke-width:4;	
+}
+
+.grot
+{
+	fill: #606060; 	
+}
+
+.Ppoz
+{
+	font-size: 16px; 
+	fill: black;
+	font-weight: bold;
+}
+
+.liczniki
+{
+	fill:#E0E0E0;
+	stroke:#CC00CC;
+	stroke-width:3;
+}
+
+.liczniki_dane
+{
+	font-size: 16px ; 
+	fill: black;
+}
+
+.parter
+{
+	font-size: 18px; 
+	fill: black;
+	font-weight: bold;
+}
+
+.klim
+{
+	fill:#E0E0E0;
+	stroke:#CC00CC;
+	stroke-width:3;
+}
+
+.klim_napis
+{
+	 font-size: 16px; 
+	 fill: black;
+	 font-weight: bold;
+}
+
+.klim_dane
+{
+	font-size: 16px;	
+	fill: black;
+}
+
+.przelacznik
+{
+	fill:#E0E0E0;
+	stroke:blue;
+	stroke-width:3;
+}
+
+.wyl_kolo
+{
+	fill-opacity:0; 
+	stroke: blue;
+	stroke-width: 3;
+}
+
+.rups
+{
+	fill:#E0E0E0;
+	stroke-width:3;
+}
+
+.rups_napis
+{
+	font-size: 17px; 	
+	font-weight: bold; 
+	fill: black;
+}
+
+.rups_in_out
+{
+	font-size: 12px; 	
+	font-weight: bold; 
+	fill: black;
+}
+
+.rups_czcionka
+{
+	font-size: 13px; 		
+}
+
+.rups_moc
+{
+	font-size: 13px; 	
+	font-weight:bold;
+}
+
+.wylacznik
+{
+	stroke-width:3;
+}
+
+.wylacznik_kolo
+{
+	stroke-width:3;
+	fill-opacity:0;
+}
+
+.wyl_napis
+{
+	font-size: 10px; 	
+	fill: black;
+}
